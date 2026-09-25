@@ -3,7 +3,7 @@
 A google drive workspace extension for google docs that add in the Extension menu a new item "Export current gDoc to pdf". 
 This pdf file is created in the same google drive folder of the gdoc
 
-Export PDF saves a PDF copy of the open document in its Google Drive folder.
+Export current gDoc to PDF saves a PDF copy of the open document in its Google Drive folder.
 
 How to use:
 
